@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This blog is a repo of thoughts and ideas from an individual interested
   in privacy and how the loss of privacy has affected the world.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://privateminded.ca" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: qlmr
 github_username:  qlmr
 
