@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: post
 title:  "Welcome to Privateminded!"
+description: Introductory post.
 date:   2020-03-24 21:28:36 -0400
-categories: jekyll update
+tags: about, author
 ---
 
 Welcome,
