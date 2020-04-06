@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://privateminded.ca/tag/design/</loc>
+<lastmod>2020-04-06T14:54:44-04:00</lastmod>
+</url>
+<url>
+<loc>https://privateminded.ca/tag/jekyll/</loc>
+<lastmod>2020-04-06T14:54:44-04:00</lastmod>
+</url>
+<url>
+<loc>https://privateminded.ca/tag/web/</loc>
+<lastmod>2020-04-06T14:54:44-04:00</lastmod>
+</url>
+<url>
+<loc>https://privateminded.ca/posts/welcome-to-jekyll</loc>
+<lastmod>2020-03-24T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>https://privateminded.ca/posts/big-data-location-privacy</loc>
+<lastmod>2020-04-05T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>https://privateminded.ca/about</loc>
+</url>
+<url>
+<loc>https://privateminded.ca/</loc>
+</url>
+</urlset>
