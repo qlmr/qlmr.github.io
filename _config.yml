@@ -1,5 +1,6 @@
 # Mandatory settings
 
+remote_theme:  nielsenramon/chalk 
 blog_theme: light # Or use dark
 name: Privateminded
 paginate: 25
